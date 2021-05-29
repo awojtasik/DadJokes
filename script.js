@@ -50,7 +50,7 @@ const buttonText = [
   }
 
 
-  jokeButton.addEventListener('click', handleClick)
+  jokeButton.addEventListener('click', handleClick);
 
 
 
